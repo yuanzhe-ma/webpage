@@ -2,12 +2,12 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yuanzhe Ma's personal webpage  # the website title (if blank, full name will be used instead)
+title: #Yuanzhe Ma's personal webpage  # the website title (if blank, full name will be used instead)
 first_name: Yuanzhe
 middle_name:
 last_name: Ma
 email: yuanzhe.ma@columbia.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: > ## the ">" symbol means to ignore newlines until "footer_text:"
   [Columbia University in the City of New York](https://www.columbia.edu/) 
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
