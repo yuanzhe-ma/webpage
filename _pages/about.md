@@ -26,8 +26,9 @@ I am broadly interested in applied probability and optimization with application
 - reinforcement learning
 
 I have the following ongoing research projects:
--Transient analysis of load balancing systems, joint work with Prakirt Raj Jhunjhunwala and Siva Theja Maguluri.
--Operator norm of random matrices, joint work with Debankur Mukherjee and Souvik Dhara.
+- Transient analysis of load balancing systems, joint work with Prakirt Raj Jhunjhunwala and Siva Theja Maguluri.
+- Operator norm of random matrices, joint work with Debankur Mukherjee and Souvik Dhara.
+
 
 
 
