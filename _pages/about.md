@@ -14,6 +14,5 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Yuanzhe Ma, an incoming Ph.D. student. I finished an MS in Statistics from the School of  [ISyE](https://www.isye.gatech.edu/) at Georgia Tech, where I was fortunate to work with Professor
-[Siva Theja Maguluri](https://sites.google.com/site/sivatheja/)  and Professor
-[Debankur Mukherjee](https://www.debankur-mukherjee.com/). I also finished an MS in [Mathematics](https://math.gatech.edu/) from Georgia Tech, where I was advised by Professor [Michael Damron](http://people.math.gatech.edu/~mdamron6/).
+My name is Yuanzhe Ma (马远哲), an incoming PhD student at Columbia IEOR. I obtained an MS in Statistics in Spring 2021 from the School of  [Industrial and Systems Engineering](https://www.isye.gatech.edu/) at Georgia Tech, where I was fortunate to work with 
+[Siva Theja Maguluri](https://sites.google.com/site/sivatheja/)  and [Debankur Mukherjee](https://www.debankur-mukherjee.com/). I also obtained an MS in [Mathematics](https://math.gatech.edu/) in Spring 2021 from Georgia Tech, advised by [Michael Damron](http://people.math.gatech.edu/~mdamron6/).
