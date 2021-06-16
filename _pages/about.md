@@ -20,9 +20,8 @@ Before Georgia Tech, I joined a leading Fintech startup, 360 DigiTech, which was
 
 I am broadly interested in applied probability and optimization with applications to machine learning. More specifically, I am interested in:
 - stochastic analysis 
-- optimization theory
+- nonsmooth, nonconvex optimization theory
 - operator norm of random matrices 
-- the above theory with applications in data science
 
 I have the following ongoing research projects:
 - transient analysis of load balancing systems, joint work with Prakirt Raj Jhunjhunwala and Siva Theja Maguluri
