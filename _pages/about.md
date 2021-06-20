@@ -19,9 +19,8 @@ I am an incoming PhD student in the Department of [Industrial Engineering and Op
 Before Georgia Tech, I joined a leading Fintech startup, 360 DigiTech, which was later was listed on NASDAQ with code [QFIN](https://finance.yahoo.com/quote/QFIN/), as one of the core team members in 2016 at the age of 19. Working with the Chief Data Scientist and the Chief Risk Officer, and as a machine learning engineer, I applied cutting-edge techniques in artificial intelligence to attack challenging problems arising in risk management and marketing. While working full-time in Shanghai, China, I studied part-time by myself, took a sequence of exams, and received a BEc in Economics from East China Normal University and a GradDip in Mathematics with distinction from the University of London.  
 
 I am broadly interested in applied probability and optimization with applications to machine learning. More specifically, I am interested in:
-- stochastic analysis 
+- analysis of stochastic systems 
 - nonsmooth, nonconvex optimization theory
-- operator norm of random matrices 
 
 I have the following ongoing research projects:
 - transient analysis of load balancing systems, joint work with Prakirt Raj Jhunjhunwala and Siva Theja Maguluri
