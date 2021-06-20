@@ -28,11 +28,11 @@ I have the following ongoing research projects:
 - operator norm of random matrices, joint work with Debankur Mukherjee and Souvik Dhara
 
 Selected PhD level courses at Georgia Tech:
-- stochastics: stochastic processes 1 and 2, stochastic calculus 1, and probabilistic combinatorics
+- stochastics: stochastic processes, stochastic calculus, and probabilistic combinatorics
 - statistics: theoretical statistics, linear statistical models, multivariate analysis, and testing statistical hypotheses
-- analysis: real analysis 1 and functional analysis
-- reading course in high-dimensional probability with Prof. Vladimir Koltchinskii
-- others: computational statistics, reinforcement learning, and linear optimization 
+- analysis: real analysis and functional analysis (basis theory) 
+- reading course in high-dimensional probability with [Prof. Vladimir Koltchinskii](https://math.gatech.edu/people/vladimir-koltchinskii)
+- others: computational statistics, [reading group](https://docs.google.com/document/d/1sRq7foYxyH34-UJ0gpsoHF5zICkexnMIaKu5cpnzZxU/) in reinforcement learning, and linear optimization 
 
 
 
