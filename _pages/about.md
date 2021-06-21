@@ -6,7 +6,7 @@ description:
 
 profile:
   align: right
-  image: Yuanzhe.jpg
+  image: Yuanzhe-picture.png
   address: yuanzhe.ma[at]columbia[dot]edu
 
 news: false  # includes a list of news items
