@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Department of Industrial Engineering and Operations Research, Columbia University, New York City 
+description: 
 
 profile:
   align: right
