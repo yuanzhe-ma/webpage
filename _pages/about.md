@@ -30,7 +30,7 @@ Selected PhD level courses at Georgia Tech:
 - stochastics: stochastic processes, stochastic calculus, and probabilistic combinatorics
 - statistics: theoretical statistics, linear statistical models, multivariate analysis, and testing statistical hypotheses
 - analysis: real analysis and functional analysis ([basis theory](https://people.math.gatech.edu/~heil/papers/bases.pdf)) 
-- reading course in high-dimensional probability with [Prof. Vladimir Koltchinskii](https://math.gatech.edu/people/vladimir-koltchinskii)
+- reading course in [high-dimensional probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf) with [Prof. Vladimir Koltchinskii](https://math.gatech.edu/people/vladimir-koltchinskii)
 - others: computational statistics, [reading group](https://docs.google.com/document/d/1sRq7foYxyH34-UJ0gpsoHF5zICkexnMIaKu5cpnzZxU/) in reinforcement learning, and linear optimization 
 
 
