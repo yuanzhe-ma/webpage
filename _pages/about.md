@@ -22,7 +22,7 @@ I am broadly interested in applied probability and optimization with application
 - analysis of stochastic systems 
 - nonsmooth, nonconvex optimization theory
 
-ongoing research projects:
+Ongoing research projects:
 - transient analysis of load balancing systems, joint work with Prakirt Raj Jhunjhunwala and Siva Theja Maguluri
 - operator norm of random matrices, joint work with Debankur Mukherjee and Souvik Dhara
 
