@@ -32,7 +32,7 @@ Ongoing research projects:
 
 Selected PhD level courses at Georgia Tech:
 - stochastics: stochastic processes, [stochastic calculus](https://people.math.gatech.edu/~mdamron6/teaching/Fall_2019/Math_7244/index.html), and probabilistic combinatorics
-- statistics: theoretical statistics, [linear statistical models](https://www.cambridge.org/core/books/coordinatefree-approach-to-linear-models/7FCB9D477143D2DED8D3AAC4CD1184A8), multivariate analysis, and testing statistical hypotheses
+- statistics: theoretical statistics, [linear statistical models](https://doi.org/10.1017/CBO9780511546822), multivariate analysis, and testing statistical hypotheses
 - analysis: real analysis and functional analysis ([basis theory](https://www.springer.com/gp/book/9780817646868)) 
 - reading course in [high-dimensional probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf) with [Prof. Vladimir Koltchinskii](https://math.gatech.edu/people/vladimir-koltchinskii)
 - others: computational statistics, [reading group](https://docs.google.com/document/d/1sRq7foYxyH34-UJ0gpsoHF5zICkexnMIaKu5cpnzZxU/) in reinforcement learning, and linear optimization 
