@@ -35,7 +35,7 @@ Selected PhD level courses at Georgia Tech:
 - statistics: theoretical statistics, [linear statistical models](https://doi.org/10.1017/CBO9780511546822), multivariate analysis, and testing statistical hypotheses
 - analysis: real analysis and functional analysis ([basis theory](https://www.springer.com/gp/book/9780817646868)) 
 - reading course in [high-dimensional probability](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf) with [Prof. Vladimir Koltchinskii](https://math.gatech.edu/people/vladimir-koltchinskii)
-- others: computational statistics, [reading group](https://docs.google.com/document/d/1sRq7foYxyH34-UJ0gpsoHF5zICkexnMIaKu5cpnzZxU/) in reinforcement learning, and linear optimization 
+- others: computational statistics, [reading group](https://docs.google.com/document/d/1sRq7foYxyH34-UJ0gpsoHF5zICkexnMIaKu5cpnzZxU/) in [reinforcement learning](https://www.dropbox.com/sh/chwb7j1keeyide1/AAB0SDqVaD1qm2Ji9id3jF3ea?dl=0), and linear optimization 
 
 
 
